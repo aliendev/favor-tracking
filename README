@@ -1,0 +1,12 @@
+Copyright (C) 2026 Michael "AlienDev" Youngblood. All rights reserved. No part of this repository may be copied, distributed, or modified.
+
+# Favor Tracker
+
+## Why?
+I built this for two reasons.
+    1. I want to write something publicly in go
+    2. I started driving for favor and need to keep track of things myself.
+
+## Requirements
+
+See [docs/0001-favor-tracker-v1.md](./docs/0001-favor-tracker-v1.md) (PRD — Ready for implementation).
